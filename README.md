@@ -59,9 +59,12 @@ I enjoy mentoring and have helped over 10 junior developers grow into their role
 - 🐦 [Twitter](https://twitter.com/alexbaumgertner)
 - 🌐 [Stack Overflow](https://stackoverflow.com/users/456020/alex-baumgertner)
 - 🐘 [Mastodon](https://mastodon.social/@alexbaumgertner)
-- 🦊 [Mozilla](https://mozillians.org/en-US/u/alexbaumgertner/)
 - 🧠 [freeCodeCamp](https://www.freecodecamp.org/alexbaumgertner)
 
 ---
 
 ## 📚 Projects
+
+[Modern Education](https://easy-deep-learning.github.io/)
+[Osler–Weber–Rendu disease](https://curehht-ru.org)
+[Krechevitsy](https://krechi-sila.github.io)
